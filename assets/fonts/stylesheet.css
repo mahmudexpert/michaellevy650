@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'berthold_akzidenz_grotesk';
+    src: url('akzidenzgroteskbe-regular-webfont.woff2') format('woff2'),
+         url('akzidenzgroteskbe-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
